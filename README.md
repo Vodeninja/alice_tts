@@ -73,6 +73,12 @@ python main.py
 - Settings are saved to tts_config.json
 - Temporary files are automatically deleted after use
 
+## Support the Project
+
+If you find this project useful, you can support its development:
+
+- https://vodeninja.ru (Telegram)
+
 ---
 
 <a name="russian"></a>
@@ -144,4 +150,10 @@ python main.py
 
 - Программа автоматически разбивает большие тексты на части
 - Настройки сохраняются в файл tts_config.json
-- Временные файлы автоматически удаляются после использования 
+- Временные файлы автоматически удаляются после использования
+
+## Поддержка проекта
+
+Если проект оказался полезным, вы можете поддержать его развитие:
+
+- https://vodeninja.ru (телеграм)
