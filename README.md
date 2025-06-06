@@ -73,6 +73,12 @@ python main.py
 - Settings are saved to tts_config.json
 - Temporary files are automatically deleted after use
 
+## License
+
+This project is licensed under the MIT License with non-commercial use restriction. See the [LICENSE](LICENSE) file for details.
+
+For commercial use, please contact the author.
+
 ## Support the Project
 
 If you find this project useful, you can support its development:
@@ -151,6 +157,12 @@ python main.py
 - Программа автоматически разбивает большие тексты на части
 - Настройки сохраняются в файл tts_config.json
 - Временные файлы автоматически удаляются после использования
+
+## Лицензия
+
+Этот проект распространяется под лицензией MIT с ограничением на некоммерческое использование. Подробности в файле [LICENSE](LICENSE).
+
+Для коммерческого использования, пожалуйста, свяжитесь с автором.
 
 ## Поддержка проекта
 
